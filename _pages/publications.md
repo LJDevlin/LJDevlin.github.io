@@ -13,18 +13,18 @@ author_profile: true
 
 ## Articles
 
-1. The No-U-Turn Sampler as a Proposal Distribution in a Sequential Monte Carlo Sampler without Accept/Reject - L. Devlin, M. Carter, P. Horridge, P.L. Green, S. Maskell
-IEEE Signal Processing Letters - Vol. 31, 2024
+1. [The No-U-Turn Sampler as a Proposal Distribution in a Sequential Monte Carlo Sampler without Accept/Reject](https://ieeexplore.ieee.org/document/10494898) - L. Devlin, M. Carter, P. Horridge, P.L. Green, S. Maskell
+IEEE Signal Processing Letters - Vol. 31, 2024.  
 
-1. A General-Purpose Fixed-Lag No-U-Turn Sampler for Nonlinear Non-Gaussian State Space Models - A. Varsi, L. Devlin, P. Horridge, S. Maskell, IEEE Transactions on Aerospace and Electronic Systems, 2024
+1. [A General-Purpose Fixed-Lag No-U-Turn Sampler for Nonlinear Non-Gaussian State Space Models](https://ieeexplore.ieee.org/document/10463105) - A. Varsi, L. Devlin, P. Horridge, S. Maskell, IEEE Transactions on Aerospace and Electronic Systems, 2024.
 
-1. Efficient Learning of the Parameters of Non-Linear Models Using Differentiable Resampling in Particle Filters - C. Rosato, LJ Devlin, V. Beraud, P. Horridge, T. Schön, S. Maskell, - IEEE Transactions on Signal Processing, Vol. 70 - 2022
+1. [Efficient Learning of the Parameters of Non-Linear Models Using Differentiable Resampling in Particle Filters](https://ieeexplore.ieee.org/document/9813434) - C. Rosato, LJ Devlin, V. Beraud, P. Horridge, T. Schön, S. Maskell, - IEEE Transactions on Signal Processing, Vol. 70 - 2022.
 
-1. Increasing the efficiency of Sequential Monte Carlo samplers through the use of approximately optimal L-kernels - PL Green, LJ Devlin, RE Moore, RJ Jackson, J Li, and S Maskell - Mechanical Systems and Signal Processing Vol 62, 2022
+1. [Increasing the efficiency of Sequential Monte Carlo samplers through the use of approximately optimal L-kernels](https://www.sciencedirect.com/science/article/abs/pii/S0888327021004222) - PL Green, LJ Devlin, RE Moore, RJ Jackson, J Li, and S Maskell - Mechanical Systems and Signal Processing Vol 62, 2022.
 
-1. Measurement of the longitudinal energy distribution of electrons in low energy beams using electrostatic elements - LJ Devlin, LB Jones, TCQ Noakes, CP Welsch and BL Militsyn  - Review of Scientific Instruments Vol. 89, 2018
+1. [Measurement of the longitudinal energy distribution of electrons in low energy beams using electrostatic elements](https://pubs.aip.org/aip/rsi/article-abstract/89/8/083305/990313/Measurement-of-the-longitudinal-energy?redirectedFrom=fulltext) - LJ Devlin, LB Jones, TCQ Noakes, CP Welsch and BL Militsyn  - Review of Scientific Instruments Vol. 89, 2018.
 
-1. Charged particle tracking through electrostatic wire meshes using the finite element method- LJ Devlin, O Karamyshev and CP Welsch- Physics of Plasmas vol 23, 2016
+1. [Charged particle tracking through electrostatic wire meshes using the finite element method](https://pubs.aip.org/aip/pop/article-abstract/23/6/063110/320043/Charged-particle-tracking-through-electrostatic?redirectedFrom=fulltext) - LJ Devlin, O Karamyshev and CP Welsch- Physics of Plasmas vol 23, 2016.
 
 ## Conference Proceedings
 1. An Automated System to Discover and Track Unknown Geosynchronous Objects UsingGround-based Optical Telescopes - Y. Zhou, L. Devlin, G. Cook, S, Maskell and J. Barr- Advanced Maui Optical and Space Surveillance Technologies Conference (AMOS) - 2022
