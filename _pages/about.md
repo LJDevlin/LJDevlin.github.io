@@ -26,6 +26,6 @@ I currently teach on the following modules:
 
 Affiliations and commitments
 ======
-I am an associate fellow of the Higher Education Academy (HEA).
+I am a Fellow of the Higher Education Academy (HEA).
 
 I have reviewed articles for IEEE Transactions on Signal Processing, IEEE Transactions on Aerospace and Electronic Systems, and The Journal of Instrumentation (JINST).
