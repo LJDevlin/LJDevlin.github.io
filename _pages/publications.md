@@ -38,5 +38,6 @@ IEEE Signal Processing Letters - Vol. 31, 2024.
 
 ## Preprints
 1. [The No-U-Turn sampler as a proposal distribution in a sequential Monte Carlo sampler with a near-optimal L-kernel](https://arxiv.org/abs/2108.02498) - L. Devlin, M. Carter, P. Horridge, P.L. Green, S. Maskell, 2021.
+1. [An Entropic Metric for Measuring Calibration of Machine Learning Models](https://arxiv.org/abs/2502.14545)D. Sumler, L.Devlin, S. Maskell, R Lane, 2025
 
 
