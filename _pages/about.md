@@ -16,7 +16,7 @@ Research interests
 **Current PhD students**
 * Harvinder Lehal - '_Developing Efficient Numerical Algorithms Using Fast Bayesian Random Forests_',  with Professor Simon Maskell, 2022- Present
 * Daniel Sumler - '_Bayesian Learning for Sparse High-Dimensional Data_', with Professor Simon Maskell, 2023 - Present 
-* Sion Lynch - 'Machine learning to track multiple objects using raw radar data in the maritime environment_', with Dr Angel Garcia-Fernandez, 2024- Present
+* Sion Lynch - '_Machine learning to track multiple objects using raw radar data in the maritime environment_', with Dr Angel Garcia-Fernandez, 2024- Present
 
 Teaching
 ======
