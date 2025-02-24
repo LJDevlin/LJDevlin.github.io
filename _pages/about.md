@@ -14,8 +14,9 @@ Research interests
 <p align="justify"> My primary area of research is in Bayesian signal processing with a focus on Sequential Monte Carlo methods for static and time evolving problems. I am interested how these class of algorithms can be applied to distributed computing architectures. </p>
 
 **Current PhD students**
-* Harvinder Lehal - '_Developing Efficient Numerical Algorithms Using Fast Bayesian Random Forests_',  2022- Present
-* Daniel Sumler - '_Bayesian Learning for Sparse High-Dimensional Data_', 2023 - Present 
+* Harvinder Lehal - '_Developing Efficient Numerical Algorithms Using Fast Bayesian Random Forests_',  with Professor Simon Maskell, 2022- Present
+* Daniel Sumler - '_Bayesian Learning for Sparse High-Dimensional Data_', with Professor Simon Maskell, 2023 - Present 
+* Sion Lynch - 'Machine learning to track multiple objects using raw radar data in the maritime environment_', with Dr Angel Garcia-Fernandez, 2024- Present
 
 Teaching
 ======
