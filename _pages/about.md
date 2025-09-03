@@ -21,8 +21,9 @@ Research interests
 Teaching
 ======
 I currently teach on the following modules:
-* [ELEC320 - Neural Networks](https://tulip.liv.ac.uk/mods/student/ELEC320_202425.htm) - Module co-ordinator - 2022-Present
-* [ELEC230 - Robotic Systems]((https://www.liverpool.ac.uk/info/portal/pls/portal/tulwwwmerge.mergepage?p_template=m_ee&p_tulipproc=moddets&p_params=%3Fp_module_id%3D200215)) - co Module co-ordinator- 2022-Present
+* [ELEC319 - Image Processing](https://tulip.liv.ac.uk/mods/student/ELEC319_202526.htm) - Module co-ordinator - 2022-Present
+* [ELEC320 - Neural Networks](https://tulip.liv.ac.uk/mods/student/ELEC320_202526.htm) - Module co-ordinator - 2022-Present
+* [ELEC230 - Robotic Systems](https://tulip.liv.ac.uk/mods/student/ELEC230_202526.htm) - co Module co-ordinator- 2022-Present
 * ELEC340/440 - Final Year projects - I typically supervise 5-7 projects each year
 
 Affiliations and commitments
