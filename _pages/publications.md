@@ -39,6 +39,7 @@ IEEE Signal Processing Letters - Vol. 31, 2024.
 1. [Spectroscopic Characterization of Novel Silicon Photomultipliers](https://accelconf.web.cern.ch/BIW2012/papers/thbp02.pdf) - M. Panniello, L Devlin. P Finocchiaro, A Pappalardo, and C Welsch - Proceedings of BIW2012, 2012.
 
 ## Preprints
+1. [Hess-MC2: Sequential Monte Carlo Squared using Hessian Information and Second Order Proposals](https://arxiv.org/abs/2507.07461) - J. Murphy, C. Rosato, A. Millard, L. Devlin, P. Horridge, S. Maskell, 2025.
 1. [Efficient MCMC Sampling with Expensive-to-Compute and Irregular Likelihoods](https://arxiv.org/abs/2505.10448) - C. Rosato, H. Lehal, S. Maskell, L. Devlin, M. Strens, 2025.
 1. [An Entropic Metric for Measuring Calibration of Machine Learning Models](https://arxiv.org/abs/2502.14545) - D. Sumler, L.Devlin, S. Maskell, R Lane, 2025.
 1. [The No-U-Turn sampler as a proposal distribution in a sequential Monte Carlo sampler with a near-optimal L-kernel](https://arxiv.org/abs/2108.02498) - L. Devlin, M. Carter, P. Horridge, P.L. Green, S. Maskell, 2021.
