@@ -30,4 +30,4 @@ Affiliations and commitments
 ======
 I am a Fellow of the Higher Education Academy (HEA).
 
-I have reviewed articles for IEEE Transactions on Signal Processing, IEEE Transactions on Aerospace and Electronic Systems, The Journal of Instrumentation (JINST), Machine Learning: Science and Technology (IOP), Digital Signal Processing (Elsevier), and Biometrical Journal.
+I have reviewed articles for IEEE Transactions on Signal Processing, IEEE Transactions on Aerospace and Electronic Systems, IEEE Signal Processing Letters, The Journal of Instrumentation (JINST), Machine Learning: Science and Technology (IOP), Digital Signal Processing (Elsevier), and Biometrical Journal.
