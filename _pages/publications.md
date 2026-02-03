@@ -41,6 +41,7 @@ IEEE Signal Processing Letters - Vol. 31, 2024.
 1. [Spectroscopic Characterization of Novel Silicon Photomultipliers](https://accelconf.web.cern.ch/BIW2012/papers/thbp02.pdf) - M. Panniello, L Devlin. P Finocchiaro, A Pappalardo, and C Welsch - Proceedings of BIW2012, 2012.
 
 ## Preprints
+1. [A Track-Before-Detect Trajectory Multi-Bernoulli Filter for Generalised Superpositional Measurements](https://arxiv.org/abs/2602.02365) -  S. Lynch, Á. F. García-Fernández, L. Devlin, 2026.
 1. [Towards Scalable Proteomics: Opportunistic SMC Samplers on HTCondor](https://arxiv.org/abs/2509.08020) -  M. Carter, L. Devlin, A. Philips, E. Pyzer-Knapp, P. Spirakis, S. Maskell, 2025.
 1. [Hess-MC2: Sequential Monte Carlo Squared using Hessian Information and Second Order Proposals](https://arxiv.org/abs/2507.07461) - J. Murphy, C. Rosato, A. Millard, L. Devlin, P. Horridge, S. Maskell, 2025.
 1. [Efficient MCMC Sampling with Expensive-to-Compute and Irregular Likelihoods](https://arxiv.org/abs/2505.10448) - C. Rosato, H. Lehal, S. Maskell, L. Devlin, M. Strens, 2025.
