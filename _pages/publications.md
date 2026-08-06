@@ -12,7 +12,8 @@ author_profile: true
 {% include base_path %}
 
 ## Articles
-
+1. [A Track-Before-Detect Trajectory Multi-Bernoulli Filter for Nested Superpositional Measurements](10.1109/TSP.2026.3719138) -  S. Lynch, Á. F. García-Fernández, L. Devlin, IEEE Transactions on Signal Processing, 2026.
+2. 
 1. [The No-U-Turn Sampler as a Proposal Distribution in a Sequential Monte Carlo Sampler without Accept/Reject](https://ieeexplore.ieee.org/document/10494898) - L. Devlin, M. Carter, P. Horridge, P.L. Green, S. Maskell
 IEEE Signal Processing Letters - Vol. 31, 2024.  
 
